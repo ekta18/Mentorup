@@ -10,25 +10,9 @@ You can check the web version of this same system [here](https://github.com/ekta
 
 ## <a name="Results">Results</a>
 
-<table>
-     <tr>
-       <td><p align="center"><b>Recording 1</b></p></td>
-      <td><p align="center"><b>Recording 2</b></p></td>
-   </tr>
-     <tr>
-      <td>
-          <video width="860" height="700" controls>
-                <source src="assets/videos/App_Recording_1.mp4" type="video/mp4">
-          </video> 
-      </td>
-      <td>
-          <video width="860" height="700" controls>
-                <source src="assets/videos/App_Recording_2.mp4" type="video/mp4">
-          </video> 
-      </td>
-   </tr>
-</table>
+![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/videos/App_Recording_1.mp4)
+![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/videos/App_Recording_2.mp4)
 
-You can view indiviuals screenshots of the app [here](https://github.com/ekta18/Mentorup/tree/main/assets/results).
+You can view the indiviual screenshots of the app [here](https://github.com/ekta18/Mentorup/tree/main/assets/results).
 
 ---
