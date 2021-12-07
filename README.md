@@ -1,4 +1,4 @@
-# Mentorup App 🧑‍🏫 
+# Mentorup App 👨‍🏫 
 
 ## <a name="system">About the app</a>
 
@@ -14,17 +14,25 @@ You can check the web version of this same system [here](https://github.com/ekta
     <tr>
         <th align="center">App Logo</th>
         <th align="center">Splash Screen</th>
-        <th align="center">Welcome Screen</th>
     </tr>
     <tr>
         <td align="center">
-            <img src="assets/results/AppLogo.jpg" alt="Image" width="750" height="1500">
+            <img src="assets/results/AppLogo.jpg" alt="Image" width="900" height="800">
         </td>
         <td align="center">
-            <img src="assets/results/Splash_Screen.jpg" alt="Image" width="750" height="1500">
+            <img src="assets/results/Splash_Screen.jpg" alt="Image" width="900" height="800">
+        </td>
+    </tr>
+    <tr>
+        <th align="center">Welcome Screen</th>
+        <th align="center">Splash Screen</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/results/WelcomeScreen.jpg" alt="Image" width="900" height="800">
         </td>
         <td align="center">
-            <img src="assets/results/WelcomeScreen.jpg" alt="Image" width="750" height="1500">
+            <img src="assets/results/LoginAs.jpg" alt="Image" width="900" height="800">
         </td>
     </tr>
 </table>
