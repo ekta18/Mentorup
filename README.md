@@ -1,6 +1,6 @@
 # Mentorup App 👨‍🏫 
 
-## <a name="system">About the app</a>
+## <a name="system">About the App</a>
 
 **Startup Mentoring App** is an app created to help the startups initiated by the budding entrepreneurs to get guidance from the mentors and financial support from the funders by communicating thorugh chatpage. Other features include updates on lastest news related to startups, webinars, blogs and forums to discuss. This app is developed using Flutter/Dart and used Aqueduct as backend server.
 
@@ -8,32 +8,27 @@ You can check the web version of this same system [here](https://github.com/ekta
 
 ---
 
-## <a name="ss">Screenshots</a>
+## <a name="Results">Results</a>
 
 <table>
-    <tr>
-        <th align="center">App Logo</th>
-        <th align="center">Splash Screen</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="assets/results/AppLogo.jpg" alt="Image" width="900" height="800">
-        </td>
-        <td align="center">
-            <img src="assets/results/Splash_Screen.jpg" alt="Image" width="900" height="800">
-        </td>
-    </tr>
-    <tr>
-        <th align="center">Welcome Screen</th>
-        <th align="center">Splash Screen</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="assets/results/WelcomeScreen.jpg" alt="Image" width="900" height="800">
-        </td>
-        <td align="center">
-            <img src="assets/results/LoginAs.jpg" alt="Image" width="900" height="800">
-        </td>
-    </tr>
+     <tr>
+       <td><p align="center"><b>Recording 1</b></p></td>
+      <td><p align="center"><b>Recording 2</b></p></td>
+   </tr>
+     <tr>
+      <td>
+          <video width="860" height="700" controls>
+                <source src="assets/videos/App_Recording_1.mp4" type="video/mp4">
+          </video> 
+      </td>
+      <td>
+          <video width="860" height="700" controls>
+                <source src="assets/videos/App_Recording_2.mp4" type="video/mp4">
+          </video> 
+      </td>
+   </tr>
 </table>
 
+You can view indiviuals screenshots of the app [here](https://github.com/ekta18/Mentorup/tree/main/assets/results).
+
+---
