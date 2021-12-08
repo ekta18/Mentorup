@@ -15,4 +15,6 @@ You can check the web version of this same system [here](https://github.com/ekta
 
 You can view the indiviual screenshots of the app [here](https://github.com/ekta18/Mentorup/tree/main/assets/results).
 
+(**Note :** The code above includes only the frontend using Flutter/Dart)
+
 ---
