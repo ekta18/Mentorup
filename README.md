@@ -10,8 +10,8 @@ You can check the web version of this same system [here](https://github.com/ekta
 
 ## <a name="Results">Results</a>
 
-![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/gifs/App_Recording_1.gif | width=860, height=700)
-![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/gifs/App_Recording_2.gif | width=860, height=700)
+![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/gifs/App_Recording_1.gif){:height="700px" width="860px"}
+![alt text](https://github.com/ekta18/Mentorup/blob/main/assets/gifs/App_Recording_2.gif){:height="700px" width="860px"}
 
 You can view the indiviual screenshots of the app [here](https://github.com/ekta18/Mentorup/tree/main/assets/results).
 
